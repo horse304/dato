@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sounds</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>River</string>
+			<key>Default Image</key>
+			<string>ButtonSound1.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound1.png</string>
+			<key>Sound File</key>
+			<string>sound1.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ocean</string>
+			<key>Default Image</key>
+			<string>ButtonSound2.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound2.png</string>
+			<key>Sound File</key>
+			<string>sound2.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Flute</string>
+			<key>Default Image</key>
+			<string>ButtonSound3.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound3.png</string>
+			<key>Sound File</key>
+			<string>sound3.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rain</string>
+			<key>Default Image</key>
+			<string>ButtonSound4.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound4.png</string>
+			<key>Sound File</key>
+			<string>sound4.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Winds</string>
+			<key>Default Image</key>
+			<string>ButtonSound5.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound5.png</string>
+			<key>Sound File</key>
+			<string>sound5.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Music Box</string>
+			<key>Default Image</key>
+			<string>ButtonSound6.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound6.png</string>
+			<key>Sound File</key>
+			<string>sound6.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Lounge</string>
+			<key>Default Image</key>
+			<string>ButtonSound7.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound7.png</string>
+			<key>Sound File</key>
+			<string>sound7.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Birds</string>
+			<key>Default Image</key>
+			<string>ButtonSound8.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound8.png</string>
+			<key>Sound File</key>
+			<string>sound8.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Piano</string>
+			<key>Default Image</key>
+			<string>ButtonSound9.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound9.png</string>
+			<key>Sound File</key>
+			<string>sound9.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Orchestral</string>
+			<key>Default Image</key>
+			<string>ButtonSound10.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound10.png</string>
+			<key>Sound File</key>
+			<string>sound10.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Waterfall</string>
+			<key>Default Image</key>
+			<string>ButtonSound11.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound11.png</string>
+			<key>Sound File</key>
+			<string>sound11.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Thunder</string>
+			<key>Default Image</key>
+			<string>ButtonSound12.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound12.png</string>
+			<key>Sound File</key>
+			<string>sound12.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Zen</string>
+			<key>Default Image</key>
+			<string>ButtonSound13.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound13.png</string>
+			<key>Sound File</key>
+			<string>sound13.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Fire Camp</string>
+			<key>Default Image</key>
+			<string>ButtonSound14.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound14.png</string>
+			<key>Sound File</key>
+			<string>sound14.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Melody</string>
+			<key>Default Image</key>
+			<string>ButtonSound15.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound15.png</string>
+			<key>Sound File</key>
+			<string>sound15.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Night</string>
+			<key>Default Image</key>
+			<string>ButtonSound16.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound16.png</string>
+			<key>Sound File</key>
+			<string>sound16.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>White Noise</string>
+			<key>Default Image</key>
+			<string>ButtonSound17.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound17.png</string>
+			<key>Sound File</key>
+			<string>sound17.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Urban Rain</string>
+			<key>Default Image</key>
+			<string>ButtonSound18.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound18.png</string>
+			<key>Sound File</key>
+			<string>sound18.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cavern</string>
+			<key>Default Image</key>
+			<string>ButtonSound190.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound190.png</string>
+			<key>Sound File</key>
+			<string>sound190.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Winds Chimes</string>
+			<key>Default Image</key>
+			<string>ButtonSound20.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound20.png</string>
+			<key>Sound File</key>
+			<string>sound20.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Storm</string>
+			<key>Default Image</key>
+			<string>ButtonSound21.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound21.png</string>
+			<key>Sound File</key>
+			<string>sound21.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Butterfly</string>
+			<key>Default Image</key>
+			<string>ButtonSound22.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound22.png</string>
+			<key>Sound File</key>
+			<string>sound22.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Medieval</string>
+			<key>Default Image</key>
+			<string>ButtonSound23.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound23.png</string>
+			<key>Sound File</key>
+			<string>sound23.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Toskana</string>
+			<key>Default Image</key>
+			<string>ButtonSound24.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound24.png</string>
+			<key>Sound File</key>
+			<string>sound24.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Slow Waves</string>
+			<key>Default Image</key>
+			<string>ButtonSound25.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound25.png</string>
+			<key>Sound File</key>
+			<string>sound25.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Heavy Rain</string>
+			<key>Default Image</key>
+			<string>ButtonSound260.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound260.png</string>
+			<key>Sound File</key>
+			<string>sound260.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rainy Day</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound270.png</string>
+			<key>Default Image</key>
+			<string>ButtonSound270.png</string>
+			<key>Sound File</key>
+			<string>sound270.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Under Water</string>
+			<key>Default Image</key>
+			<string>ButtonSound280.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound280.png</string>
+			<key>Sound File</key>
+			<string>sound280.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rainstorm</string>
+			<key>Default Image</key>
+			<string>ButtonSound29.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound29.png</string>
+			<key>Sound File</key>
+			<string>sound29.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Icy Snow</string>
+			<key>Default Image</key>
+			<string>ButtonSound30.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound30.png</string>
+			<key>Sound File</key>
+			<string>sound30.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Immersed</string>
+			<key>Default Image</key>
+			<string>ButtonSound31.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound31.png</string>
+			<key>Sound File</key>
+			<string>sound31.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Afternoon</string>
+			<key>Default Image</key>
+			<string>ButtonSound32.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound32.png</string>
+			<key>Sound File</key>
+			<string>sound32.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Seaside</string>
+			<key>Default Image</key>
+			<string>ButtonSound33.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound33.png</string>
+			<key>Sound File</key>
+			<string>sound33.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rain on roof</string>
+			<key>Default Image</key>
+			<string>ButtonSound34.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound34.png</string>
+			<key>Sound File</key>
+			<string>sound34.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Duduk</string>
+			<key>Default Image</key>
+			<string>ButtonSound35.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound35.png</string>
+			<key>Sound File</key>
+			<string>sound35.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>City Ambience</string>
+			<key>Default Image</key>
+			<string>ButtonSound36.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound36.png</string>
+			<key>Sound File</key>
+			<string>sound36.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Oscillating Fan</string>
+			<key>Default Image</key>
+			<string>ButtonSound37.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound37.png</string>
+			<key>Sound File</key>
+			<string>sound37.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Humming</string>
+			<key>Default Image</key>
+			<string>ButtonSound38.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound38.png</string>
+			<key>Sound File</key>
+			<string>sound38.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Grandfather Clock</string>
+			<key>Default Image</key>
+			<string>ButtonSound39.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound39.png</string>
+			<key>Sound File</key>
+			<string>sound39.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Vacuum</string>
+			<key>Default Image</key>
+			<string>ButtonSound40.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound40.png</string>
+			<key>Sound File</key>
+			<string>sound40.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Frogs</string>
+			<key>Default Image</key>
+			<string>ButtonSound41.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound41.png</string>
+			<key>Sound File</key>
+			<string>sound41.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Thunderstorm</string>
+			<key>Default Image</key>
+			<string>ButtonSound420.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound420.png</string>
+			<key>Sound File</key>
+			<string>sound420.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Monk Chant</string>
+			<key>Default Image</key>
+			<string>ButtonSound43.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound43.png</string>
+			<key>Sound File</key>
+			<string>sound43.caf</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cat Purring</string>
+			<key>Default Image</key>
+			<string>ButtonSound44.png</string>
+			<key>Selected Image</key>
+			<string>ButtonSelSound44.png</string>
+			<key>Sound File</key>
+			<string>sound44.caf</string>
+		</dict>
+	</array>
+</dict>
+</plist>
